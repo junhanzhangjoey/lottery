@@ -30,7 +30,7 @@ int generate(int n,int r, int p, int N){
 	      printf("%d\n",randomN);
 	   }
      	}else{
-     	   printf("%d ,",randomN);
+     	   printf("%d, ",randomN);
      	}
     }
   }
